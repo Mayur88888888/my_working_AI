@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Codex Mobile</string>
+    <string name="backend_channel_name">Local Model Service</string>
+    <string name="backend_channel_description">Keeps local model and backend sessions running smoothly</string>
+    <string name="backend_notification_title">Codex Mobile Active</string>
+    <string name="backend_notification_text">Offline GGUF runtime and session manager are active</string>
+</resources>
